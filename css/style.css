@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+body {
+    background-color: rgb(219, 219, 193);
+}
+
+.heading {
+    text-align: center;
+}
+
+.pealkiri {
+    color: coral;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 2rem;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 500px;
+    border-radius: 5%;
+}
+
+.pealkiri2 {
+    color: coral;
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    margin: 2rem;
+}
+
+.koostisosad {
+    border: 3px solid rgb(209, 187, 87);
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.koostisosade-tabel {
+    margin: 0 auto;
+    color: rgb(221, 128, 21);
+}
+
+.juhised {
+    border: 2px solid rgb(209, 187, 87);
+    width: 50%;
+    margin: 0 auto;
+}
+
+.juhised ol {
+    margin: 0 auto;
+    color: rgb(221, 128, 21);
+}
+
+.viide {
+    text-align: right;
+    color: coral;
+}
+
+.footer {
+    text-align: center;
+    color: gray;
+}
